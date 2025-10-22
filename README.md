@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sara</h1>
 <h3 align="center">A passionate frontend web developer</h3>
 
-- ⚡ Fun fact **When i'm not coding, you will find me learning a new language, reading books, or even drawing**
+⚡ Fun fact **When i'm not coding, you will find me learning a new language, reading books, or even drawing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
