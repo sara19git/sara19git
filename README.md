@@ -1,14 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sara</h1>
 <h3 align="center">A passionate frontend web developer</h3>
 
-- 🌱 I’m currently learning **MERN Stack Development**
-
-- 🤝 I’m looking for help with **Frontend web development**
-
-- 💬 Ask me about **JavaScript, Reactjs,CSS**
-
-- 📫 You can reach me by **My Instagram**
-
 - ⚡ Fun fact **When i'm not coding, you will find me learning a new language, reading books, or even drawing**
 
 <h3 align="left">Connect with me:</h3>
